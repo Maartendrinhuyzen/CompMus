@@ -1,11 +1,10 @@
 ---
-title: "Storyboard"
-output: 
-  flexdashboard::flex_dashboard:
-    storyboard: true
+title: "Storyboard Page"
+output: flexdashboard::flex_dashboard
 ---
 
-# Symphonic experiment corpus
+Analysis {.storyboard}
+=========================================
 
 ### Frame 1
 The symphonic experiment corpus exists out of a myriad of symphonies, from a wide variety of composers. What is so interesting about this corpus, is that it spans over a period from the mid 18th century to the present day. This means that the corpus contains a certain chronological storyline, if we were to put all the symphonies side to side.
@@ -23,3 +22,9 @@ Furthermore, the graph shows the relatively modest popularity of the symphony as
 
 The second graph shows the average acousticness of the symphonic recordings over time. The information we can get from this graph is that there have been virtually no large changes in this aspect. Which means recordings have over time, not relied more on electronic sounds than they used to. Some might claim this is an obvious result for a corpus existing only out of classical symphonies. Considering this claim to be true, there is always value in confirming certain prejudices before beginning an investigation.
 The graph also shows the rigidness of the classical world, keeping the acousticness-value between 0.9 and 0.95 at all time.
+
+Details
+=========================================
+
+Column
+-----------------------------------------
